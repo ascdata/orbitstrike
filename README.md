@@ -5,6 +5,8 @@ OrbitStrike is a pixel-style space shooter built with Pyxel.
 Pilot a spaceship, dodge planets, defeat bosses, and rack up points. 
 The game features mouse controls, multiple bosses, explosions, and rocket attacks.
 
+![Screenshot](https://raw.githubusercontent.com/ascdata/orbitstrike/refs/heads/main/assets/ingame_screenshot.png)
+
 Features (version 1.0)
 --------
 - Pixel-art spaceship
